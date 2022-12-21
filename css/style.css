@@ -1,0 +1,82 @@
+* {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";;
+    padding: 0px;
+    margin: 0px;
+}
+
+.btn-yellow {
+    background-color: #ffcf60 !important;
+    color: aliceblue;
+}
+
+.btn-dark-c {
+    background-color: rgb(61, 61, 61);
+    color: #ffd87c !important;
+}
+
+.center-vertical {
+    position: fixed;
+    top: 30%;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    max-width: 100%;
+}
+
+.login-logo {
+    width: 5rem;
+}
+
+.height {
+    height: 36rem;
+    overflow-y: scroll;
+}
+.registration-logo {
+    width:8rem;
+}
+
+.mt-7 {
+    margin-top: 7rem;
+}
+
+.mt-n-1 {
+    margin-top: -5px;
+}
+
+.text-yellow {
+    color: #fbc035 !important;
+}
+
+.navbar-brand {
+    width: 2rem;
+}
+#search {
+    background-color: transparent;
+}
+
+#input-transparent {
+    background-color: transparent;
+}
+
+#search::placeholder {
+    color: white;
+}
+
+.repository-img {
+    width: 1.5rem;
+    margin-right: 0.7rem;
+}
+
+.border-left-primary {
+    border-left:1px solid #fbc035;
+}
+
+.border-right-primary {
+    border-right:1px solid #fbc035;
+}
+
+.border-right-primary-3 {
+    border-right:3px solid #fbc035;
+}
